@@ -74,7 +74,7 @@ jobs:
                       $createdAt = (Get-Date).ToString('HH:mm:ss dd/MM/yyyy')
                       $reportLines = @(
                         '=======================================================',
-                        'RDP INFO - Uki Edition',
+                        'RDP INFO - Amir Edition',
                         '=======================================================',
                         "FULL ADDRESS   : bore.pub:$portOnly",
                         "PORT           : $portOnly",
